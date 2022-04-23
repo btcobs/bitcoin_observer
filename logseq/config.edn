@@ -173,7 +173,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :journal/page-title-format "yyyy-MM-dd"
- :favorites ["Home"]
+ :favorites ("Bitcoin People" "Home" "Bitcoin Resources")
  :feature/enable-journals? false
  :publishing/all-pages-public? true
  :default-home {:page "Home"}

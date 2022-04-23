@@ -1,48 +1,483 @@
-[{:block/name "2022-04-21",
-  :block/created-at 1650541795407,
-  :block/updated-at 1650541795407}
+[{:block/name "$76m stolen in beanstalkfarms hack",
+  :block/created-at 1650639185639,
+  :block/updated-at 1650639274689}
+ {:block/name "2022-04-23",
+  :block/created-at 1650703848418,
+  :block/updated-at 1650703848418}
+ {:block/name "2022-04-24",
+  :block/created-at 1650700529937,
+  :block/updated-at 1650700529937}
+ {:block/name "2022-05-01",
+  :block/created-at 1650711521943,
+  :block/updated-at 1650711521943}
+ {:block/name "6263af16-8e40-4612-b6fa-a4abebd52fcd",
+  :block/created-at 1650700086921,
+  :block/updated-at 1650700086921}
+ {:block/name "6263ba36-99c6-459e-87ab-501ac7f480e8",
+  :block/created-at 1650705063599,
+  :block/updated-at 1650705063599}
+ {:block/name "@notgrubles",
+  :block/created-at 1650639241194,
+  :block/updated-at 1650639241194}
  {:block/name "a",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
+ {:block/name "agenda",
+  :block/created-at 1650639574201,
+  :block/updated-at 1650639574201}
+ {:block/name "alex gladstein",
+  :block/created-at 1650639629691,
+  :block/updated-at 1650639629691}
+ {:block/name "anonymity",
+  :block/created-at 1650700506131,
+  :block/updated-at 1650700506131}
+ {:block/name "argentina",
+  :block/created-at 1650637565657,
+  :block/updated-at 1650637565657}
  {:block/name "b",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
+ {:block/name "backup",
+  :block/created-at 1650698704118,
+  :block/updated-at 1650698704118}
+ {:block/name "beanstalkfarms",
+  :block/created-at 1650639274681,
+  :block/updated-at 1650639274681}
+ {:block/name "bitcoin magazine",
+  :block/created-at 1650610585706,
+  :block/updated-at 1650610585706}
+ {:block/name
+  "bitcoin mining around the world_ norway’s outsized presence relative to its size",
+  :block/created-at 1650611713330,
+  :block/updated-at 1650700599519}
+ {:block/name "bitcoin optech newsletter _196",
+  :block/created-at 1650635989573,
+  :block/updated-at 1650704708200}
+ {:block/name "bitcoin people",
+  :block/created-at 1650697954096,
+  :block/updated-at 1650697970885}
+ {:block/name "bitcoin problems",
+  :block/created-at 1650636221767,
+  :block/updated-at 1650636260830}
+ {:block/name "bitcoin resources",
+  :block/created-at 1650635451241,
+  :block/updated-at 1650698191733}
+ {:block/name "bitcoin week 16 2022",
+  :block/created-at 1650608241117,
+  :block/updated-at 1650711447630}
+ {:block/name "bitcoin's share of global energy consumption",
+  :block/created-at 1650612148879,
+  :block/updated-at 1650701394294}
+ {:block/name "bitcoin-dev mailing list",
+  :block/created-at 1650635819247,
+  :block/updated-at 1650635819247}
+ {:block/name "blackhawk network",
+  :block/created-at 1650612187024,
+  :block/updated-at 1650612187024}
+ {:block/name "blockstream",
+  :block/created-at 1650635517791,
+  :block/updated-at 1650635517791}
+ {:block/name "blockstream satellite",
+  :block/created-at 1650635486077,
+  :block/updated-at 1650635668748}
+ {:block/name "bullish",
+  :block/created-at 1650699364476,
+  :block/updated-at 1650699364476}
  {:block/name "c",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
  {:block/name "card",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
+ {:block/name "cashless society",
+  :block/created-at 1650639593436,
+  :block/updated-at 1650639593436}
+ {:block/name "cbdc",
+  :block/created-at 1650612209598,
+  :block/updated-at 1650612209598}
+ {:block/name "centralization",
+  :block/created-at 1650638176553,
+  :block/updated-at 1650638176553}
+ {:block/name "chart",
+  :block/created-at 1650612363768,
+  :block/updated-at 1650612363768}
+ {:block/name "climate change",
+  :block/created-at 1650637931868,
+  :block/updated-at 1650637931868}
+ {:block/name
+  "climate friends_ why haven’t you campaigned against the use of data centers for porn streaming_",
+  :block/created-at 1650637879023,
+  :block/updated-at 1650704825668}
+ {:block/name "company",
+  :block/created-at 1650635654861,
+  :block/updated-at 1650635654861}
  {:block/name "contents",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
+ {:block/name "corruption",
+  :block/created-at 1650637510365,
+  :block/updated-at 1650637510365}
+ {:block/name "counter arguments",
+  :block/created-at 1650702007315,
+  :block/updated-at 1650702007315}
+ {:block/name "cryptoization risks",
+  :block/created-at 1650612209597,
+  :block/updated-at 1650612209597}
+ {:block/name "currency",
+  :block/created-at 1650612187020,
+  :block/updated-at 1650612187020}
+ {:block/name "dap",
+  :block/created-at 1650638411587,
+  :block/updated-at 1650638411587}
+ {:block/name "david adler",
+  :block/created-at 1650637510364,
+  :block/updated-at 1650637510364}
+ {:block/name "deep-dive",
+  :block/created-at 1650698212669,
+  :block/updated-at 1650698212669}
  {:block/name "doing",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
  {:block/name "done",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
+ {:block/name "econoalchemist",
+  :block/created-at 1650610182948,
+  :block/updated-at 1650610430295}
+ {:block/name "education",
+  :block/created-at 1650698212670,
+  :block/updated-at 1650698212670}
+ {:block/name "egypt",
+  :block/created-at 1650637706504,
+  :block/updated-at 1650637706504}
+ {:block/name "el salvador",
+  :block/created-at 1650637565659,
+  :block/updated-at 1650637565659}
+ {:block/name "electronic money",
+  :block/created-at 1650639593435,
+  :block/updated-at 1650639593435}
+ {:block/name "energy",
+  :block/created-at 1650612260017,
+  :block/updated-at 1650612260017}
+ {:block/name "erik aronesty",
+  :block/created-at 1650635798509,
+  :block/updated-at 1650635798509}
+ {:block/name "ethereum",
+  :block/created-at 1650638159694,
+  :block/updated-at 1650638159694}
+ {:block/name "ethereum's centralization dilemma through lido staking",
+  :block/created-at 1650638359256,
+  :block/updated-at 1650638432681}
+ {:block/name "exploit",
+  :block/created-at 1650639274677,
+  :block/updated-at 1650639274677}
+ {:block/name "failure",
+  :block/created-at 1650637510366,
+  :block/updated-at 1650637510366}
  {:block/name "favorites",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
+ {:block/name "full node",
+  :block/created-at 1650700506139,
+  :block/updated-at 1650700506139}
+ {:block/name "fungibility",
+  :block/created-at 1650700506133,
+  :block/updated-at 1650700506133}
+ {:block/name "future",
+  :block/created-at 1650639574200,
+  :block/updated-at 1650639574200}
+ {:block/name "germany",
+  :block/created-at 1650697965886,
+  :block/updated-at 1650697965886}
+ {:block/name "green energy",
+  :block/created-at 1650612223039,
+  :block/updated-at 1650612223039}
+ {:block/name "hack",
+  :block/created-at 1650639274679,
+  :block/updated-at 1650639274679}
+ {:block/name "hardware node",
+  :block/created-at 1650700506130,
+  :block/updated-at 1650700506130}
  {:block/name "home",
   :block/created-at 1650541804391,
-  :block/updated-at 1650541885753}
+  :block/updated-at 1650711490847}
+ {:block/name "how to back up a seed phrase",
+  :block/created-at 1650610950958,
+  :block/updated-at 1650700565094}
+ {:block/name "how to whirlpool on desktop with ronindojo",
+  :block/created-at 1650610010575,
+  :block/updated-at 1650702950772}
+ {:block/name "hyperbitcoinization",
+  :block/created-at 1650612187020,
+  :block/updated-at 1650612187020}
+ {:block/name "hypocrisy",
+  :block/created-at 1650637931869,
+  :block/updated-at 1650637931869}
+ {:block/name
+  "if you’re building on eth you have at least one, if not many, single points of failure and therefore not interesting to me",
+  :block/created-at 1650638130297,
+  :block/updated-at 1650638179625}
+ {:block/name "imf",
+  :block/created-at 1650612209594,
+  :block/updated-at 1650612209594}
+ {:block/name
+  "imf publishes global financial stability report discussing bitcoin",
+  :block/created-at 1650611469291,
+  :block/updated-at 1650705094632}
  {:block/name "in-progress",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
+ {:block/name "inflation",
+  :block/created-at 1650639566637,
+  :block/updated-at 1650639566637}
+ {:block/name "infrastructure",
+  :block/created-at 1650635460036,
+  :block/updated-at 1650635460036}
+ {:block/name "international law",
+  :block/created-at 1650637706496,
+  :block/updated-at 1650637706496}
+ {:block/name "jack dorsey",
+  :block/created-at 1650638147798,
+  :block/updated-at 1650638147798}
+ {:block/name "jameson lopp",
+  :block/created-at 1650612200095,
+  :block/updated-at 1650612200095}
+ {:block/name "jameson lopp's bitcoin resources",
+  :block/created-at 1650698130687,
+  :block/updated-at 1650698212677}
+ {:block/name "jaran mellerud",
+  :block/created-at 1650612223038,
+  :block/updated-at 1650612223038}
+ {:block/name "kevin rooke",
+  :block/created-at 1650635204097,
+  :block/updated-at 1650635204097}
  {:block/name "later",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
+ {:block/name "lightning network",
+  :block/created-at 1650612187025,
+  :block/updated-at 1650612187025}
+ {:block/name "list",
+  :block/created-at 1650698212669,
+  :block/updated-at 1650698212669}
+ {:block/name "lloyd fournier",
+  :block/created-at 1650636129708,
+  :block/updated-at 1650636129708}
+ {:block/name "machine learning",
+  :block/created-at 1650702007314,
+  :block/updated-at 1650702007314}
+ {:block/name "markets",
+  :block/created-at 1650696975770,
+  :block/updated-at 1650696975770}
+ {:block/name "mass adoption",
+  :block/created-at 1650699140965,
+  :block/updated-at 1650699140965}
+ {:block/name "matthew graham",
+  :block/created-at 1650636260827,
+  :block/updated-at 1650636260827}
+ {:block/name "medium of exchange",
+  :block/created-at 1650612187022,
+  :block/updated-at 1650612187022}
+ {:block/name "metrics",
+  :block/created-at 1650696975770,
+  :block/updated-at 1650696975770}
+ {:block/name "mica",
+  :block/created-at 1650698065552,
+  :block/updated-at 1650698065552}
+ {:block/name "miles kimball",
+  :block/created-at 1650639555592,
+  :block/updated-at 1650639555592}
+ {:block/name "mining",
+  :block/created-at 1650612223039,
+  :block/updated-at 1650612223039}
+ {:block/name "mixing",
+  :block/created-at 1650700506134,
+  :block/updated-at 1650700506134}
+ {:block/name "mongolia",
+  :block/created-at 1650637706497,
+  :block/updated-at 1650637706497}
+ {:block/name
+  "morgan stanley says bitcoin is close to being a currency_ report",
+  :block/created-at 1650610700522,
+  :block/updated-at 1650700584617}
+ {:block/name "mozambique",
+  :block/created-at 1650637706505,
+  :block/updated-at 1650637706505}
+ {:block/name "newsletter",
+  :block/created-at 1650636063852,
+  :block/updated-at 1650636063852}
+ {:block/name "norway",
+  :block/created-at 1650612223040,
+  :block/updated-at 1650612223040}
+ {:block/name "notes",
+  :block/created-at 1650699942758,
+  :block/updated-at 1650699942758}
  {:block/name "now",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
+ {:block/name "ntru",
+  :block/created-at 1650635877073,
+  :block/updated-at 1650635877073}
+ {:block/name "official website",
+  :block/created-at 1650635510820,
+  :block/updated-at 1650635510820}
+ {:block/name "overview",
+  :block/created-at 1650612223041,
+  :block/updated-at 1650612223041}
+ {:block/name "personal blog",
+  :block/created-at 1650612200096,
+  :block/updated-at 1650612200096}
+ {:block/name "politicians",
+  :block/created-at 1650697960386,
+  :block/updated-at 1650697960386}
+ {:block/name "porn",
+  :block/created-at 1650637942964,
+  :block/updated-at 1650637942964}
+ {:block/name "power grid",
+  :block/created-at 1650699908891,
+  :block/updated-at 1650699908891}
+ {:block/name "predictions",
+  :block/created-at 1650696975771,
+  :block/updated-at 1650696975771}
+ {:block/name "privacy",
+  :block/created-at 1650700506130,
+  :block/updated-at 1650700506130}
+ {:block/name "pro-bitcoin",
+  :block/created-at 1650698044732,
+  :block/updated-at 1650698044732}
+ {:block/name "proof of stake",
+  :block/created-at 1650638432675,
+  :block/updated-at 1650638432675}
+ {:block/name "quantum computing",
+  :block/created-at 1650635834507,
+  :block/updated-at 1650635834507}
+ {:block/name "quantum resistance",
+  :block/created-at 1650635840414,
+  :block/updated-at 1650635840414}
+ {:block/name "quotes",
+  :block/created-at 1650699862600,
+  :block/updated-at 1650699862600}
+ {:block/name "readme",
+  :block/created-at 1650635177832,
+  :block/updated-at 1650635177832}
+ {:block/name "regulation",
+  :block/created-at 1650612209595,
+  :block/updated-at 1650612209595}
+ {:block/name "resources",
+  :block/created-at 1650698212668,
+  :block/updated-at 1650698212668}
+ {:block/name "roadmap",
+  :block/created-at 1650639574202,
+  :block/updated-at 1650639574202}
+ {:block/name "roningdojo",
+  :block/created-at 1650700506137,
+  :block/updated-at 1650700506137}
+ {:block/name "ruchir agarwal",
+  :block/created-at 1650639542287,
+  :block/updated-at 1650639542287}
+ {:block/name "sam callahan",
+  :block/created-at 1650612250468,
+  :block/updated-at 1650612250468}
+ {:block/name "samourai wallet",
+  :block/created-at 1650700506135,
+  :block/updated-at 1650700506135}
+ {:block/name "sanctions",
+  :block/created-at 1650612209596,
+  :block/updated-at 1650612209596}
+ {:block/name "scam",
+  :block/created-at 1650639274676,
+  :block/updated-at 1650639274676}
+ {:block/name "secp26k1",
+  :block/created-at 1650635873215,
+  :block/updated-at 1650635873215}
+ {:block/name "security",
+  :block/created-at 1650612200097,
+  :block/updated-at 1650612200097}
+ {:block/name "seed phrase",
+  :block/created-at 1650698704117,
+  :block/updated-at 1650698704117}
+ {:block/name "seed xor",
+  :block/created-at 1650698704121,
+  :block/updated-at 1650698704121}
+ {:block/name "shamir backup",
+  :block/created-at 1650698704119,
+  :block/updated-at 1650698704119}
+ {:block/name "shawn amick",
+  :block/created-at 1650610723939,
+  :block/updated-at 1650610723939}
+ {:block/name "simple step one for quantum",
+  :block/created-at 1650635781673,
+  :block/updated-at 1650701854466}
+ {:block/name "soft fork",
+  :block/created-at 1650635884039,
+  :block/updated-at 1650635884039}
+ {:block/name "sovereignty",
+  :block/created-at 1650698704116,
+  :block/updated-at 1650698704116}
+ {:block/name "stacker news is going parabolic",
+  :block/created-at 1650635191939,
+  :block/updated-at 1650704870132}
+ {:block/name "stefan berger",
+  :block/created-at 1650697970884,
+  :block/updated-at 1650698067972}
+ {:block/name "strike",
+  :block/created-at 1650612187023,
+  :block/updated-at 1650612187023}
+ {:block/name "sure sats",
+  :block/created-at 1650638432672,
+  :block/updated-at 1650638432672}
+ {:block/name "tanto",
+  :block/created-at 1650700506138,
+  :block/updated-at 1650700506138}
+ {:block/name "taro",
+  :block/created-at 1650696942474,
+  :block/updated-at 1650696942474}
+ {:block/name
+  "the electronic money standard and the possibility of a zero inflation target",
+  :block/created-at 1650639524832,
+  :block/updated-at 1650639635790}
  {:block/name "todo",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
+ {:block/name "troy cross",
+  :block/created-at 1650637931867,
+  :block/updated-at 1650637931867}
+ {:block/name "tunisia",
+  :block/created-at 1650637565658,
+  :block/updated-at 1650637565658}
+ {:block/name "twitter",
+  :block/created-at 1650612254054,
+  :block/updated-at 1650612254054}
+ {:block/name "ukraine",
+  :block/created-at 1650637706501,
+  :block/updated-at 1650637706501}
+ {:block/name "ultra vires",
+  :block/created-at 1650637706499,
+  :block/updated-at 1650637706499}
+ {:block/name "value",
+  :block/created-at 1650612310016,
+  :block/updated-at 1650700945119}
+ {:block/name "violations",
+  :block/created-at 1650637706507,
+  :block/updated-at 1650637706507}
  {:block/name "wait",
   :block/created-at 1650541795134,
   :block/updated-at 1650541795134}
  {:block/name "waiting",
-  :block/created-at 1650541795133, 
-  :block/updated-at 1650541795133}]
+  :block/created-at 1650541795133,
+  :block/updated-at 1650541795133}
+ {:block/name "what-aboutism",
+  :block/created-at 1650702007316,
+  :block/updated-at 1650702007316}
+ {:block/name "whirlpool",
+  :block/created-at 1650700506136,
+  :block/updated-at 1650700506136}
+ {:block/name "will biden ever stand up to the imf’s abuses of power_",
+  :block/created-at 1650637446948,
+  :block/updated-at 1650704994367}
+ {:block/name "{",
+  :block/created-at 1650700524901,
+  :block/updated-at 1650700524901}
+ {:block/name "}",
+  :block/created-at 1650700524902, 
+  :block/updated-at 1650700524902}]

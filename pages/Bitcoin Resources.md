@@ -1,0 +1,4 @@
+- [[Jameson Lopp's Bitcoin Resources]]
+- [[Bitcoin Problems]]
+- [[Infrastructure]]
+	- [[Blockstream Satellite]]
